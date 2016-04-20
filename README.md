@@ -8,4 +8,4 @@ https://cloud.githubusercontent.com/assets/6483834/8085621/5dc60c84-0f91-11e5-84
 - AnalystSurvey.docx: It is the survey questionnaire send to analysts to understand their experience with ITIS ticket resolution in last six months.
 - AnalystResponses.xlsx: Consolidated responses for analyst survey.
 - Dictionary.docx: Regular expressions used to identify different types of input requests. Example: Procastination, ContactMe, Transfer, DoneSoCheck
-- stopWords.txt: List of sotp words for preprocessing ticket data
+- stopWords.txt: List of stop words for preprocessing ticket data
