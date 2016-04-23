@@ -9,3 +9,4 @@ https://cloud.githubusercontent.com/assets/6483834/8085621/5dc60c84-0f91-11e5-84
 - AnalystResponses.xlsx: Consolidated responses for analyst survey.
 - Dictionary.docx: Regular expressions used to identify different types of input requests. Example: Procastination, ContactMe, Transfer, DoneSoCheck
 - stopWords.txt: List of stop words for preprocessing ticket data
+- Code for preemptive model is available at https://github.com/Mining-multiple-repos-data/PreemptiveCode
