@@ -12,3 +12,4 @@ https://cloud.githubusercontent.com/assets/6483834/8085621/5dc60c84-0f91-11e5-84
 - Dictionary.docx: Regular expressions used to identify different types of tactical user input requests. Example: Temporize, ContactMe, Transfer, DoneSoCheck
 - stopWords.txt: List of stop words for preprocessing ticket data
 - Code for preemptive model is available at https://github.com/Mining-multiple-repos-data/PreemptiveCode
+- annotationUI_screenshot.docx: Screenshot for the tool designed to manually label user input request comments
